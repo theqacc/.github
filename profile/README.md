@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://q-acc.giveth.io/images/icons/logomark-dark.svg" width="200"/>
+  <img src="https://cdn.prod.website-files.com/667d6bc0b1e956f8d0b52c92/67045c73bbb361a39730a946_Logo-horisontal-light-2.svg" width="200"/>
 </p>
 
 <h1 align="center">The Quadratic Accelerator (q/acc)</h1>
